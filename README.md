@@ -13,5 +13,5 @@ This repository contains supporting analysis and documentation for the paper *â€
 ## In plain language
 
 This study explores whether companies with better sustainability performance experienced higher profitability and stability during the COVID-19 crisis.  
-Using global firm-level data across developed and emerging economies, we find that sustainable firms were generally more resilient â€” they maintained profitability and investor confidence more effectively than less sustainable peers.  
+Using global firm-level data across developed and emerging economies, we find that sustainable firms were generally more resilient and they maintained profitability and investor confidence more effectively than less sustainable peers.  
 The analysis highlights that strong governance systems and stakeholder protection further enhanced the positive link between sustainability and firm performance during the pandemic.
