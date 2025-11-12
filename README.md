@@ -5,7 +5,7 @@ This repository contains supporting analysis and documentation for the paper *â€
 ## Paper
 
 - **Title:** Are Sustainable Firms More Profitable During COVID-19? Recent Global Evidence of Firms in Developed and Emerging Economies  
-- **Authors:** Jessie Lu & S. Khan  
+- **Authors:** J. Lu & S. Khan  
 - **Journal:** *Asian Review of Accounting*, 31(1), 57â€“85 (2023)  
 - **DOI:** [https://doi.org/10.1108/ARA-04-2022-0102](https://doi.org/10.1108/ARA-04-2022-0102)  
 - **Ranking:** ABDC B
